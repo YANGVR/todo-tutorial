@@ -7,7 +7,7 @@ import { cn } from "@/lib/utils";
 
 const gowunDodum = Gowun_Dodum({
   weight: "400",
-  subsets: ["latin", "korean"],
+  subsets: ["latin"],
   preload: false,
   variable: "--font-sans",
 })
